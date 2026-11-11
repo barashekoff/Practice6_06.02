@@ -5,3 +5,4 @@ if __name__ == "__main__":
     user_name = input("Введите ваше имя: ")
     print(greet(user_name))
 print('Hello World!')
+print("a =",1+2)
