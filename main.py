@@ -1,5 +1,6 @@
 def greet(name):
     return f"Здравствуйте, {name}!"
+    return f"Как дела??, {name}!"
 
 print("Goodbye World!")
 
