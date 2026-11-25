@@ -1,4 +1,5 @@
 def greet(name):
+    return f"Пока, {name}!"
     return f"Здравствуйте, {name}!"
     return f"Как дела??, {name}!"
 
